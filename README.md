@@ -12,16 +12,16 @@
   <a href="https://twitter.com/myrdiaclonix">
     <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=myrdiaclonix&style=flat&color=blue&label=Visitas" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=myrdiaclonix&style=flat&color=blue&label=Profile views" alt=""/>
 </div>
 
 <h1 align="center">
-  Olá pessoas. 👋
+  Hello people 👋
 </h1>
 
-Me chamo Jorge Costa, sou estudante de Engenharia de Software e gosto de aprender. São temas do meu interesse: *ciência de dados*, *algoritmos*, *inteligência artificial* e *web development*.
+My name is Jorge Costa, I'm a Software Engineering student and developer. I like to learn and my interests are: *data science*, *algorithms*, *artificial intelligence* and *web development*.
 
-### Tecnologias e Ferramentas
+### Technologies and Tools
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -45,8 +45,15 @@ Me chamo Jorge Costa, sou estudante de Engenharia de Software e gosto de aprende
 <br>
 
 <div align="center">
-  <a href="https://github.com/myrdiaclonix">
-    <img height="180em" src="https://github-readme-stats-myrdiaclonix.vercel.app/api/top-langs/?username=myrdiaclonix&layout=compact&bg_color=30,8b0000,000000&title_color=fff&text_color=fff&langs_count=7"/>
-    <img height="180em" src="https://github-readme-stats-myrdiaclonix.vercel.app/api?username=myrdiaclonix&bg_color=30,000000,8b0000&title_color=fff&text_color=fff&include_all_commits=true"/>
-  </a>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=myrdiaclonix&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=myrdiaclonix&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=myrdiaclonix&show_icons=true" />
+  </picture>
 </div>
